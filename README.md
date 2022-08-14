@@ -76,4 +76,4 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 ## Live Demo
 A Webapp Deployed on Heroku
-https://oda-campusx.herokuapp.com/
+https://olympic-data-analysispro.herokuapp.com/
