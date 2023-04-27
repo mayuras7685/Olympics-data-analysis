@@ -73,5 +73,5 @@ the time in visual format.
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## Live Demo
-A Webapp Deployed on Heroku
-https://olympic-data-analysispro.herokuapp.com/
+A Webapp Deployed on Streamlit Cloud
+https://mayuras7685-olympics-data-analysis-app-yi71z5.streamlit.app/
